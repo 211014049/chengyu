@@ -164,6 +164,7 @@ def page(title, desc, path, content, root, jsonld_extra=None, keywords=""):
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{full_title}</title>
 <meta name="description" content="{desc}">
+<meta name="google-site-verification" content="VKlDaiEpSwFJMstdGA2OyU6zg6as5YLcQUNNLompxkk" />
 {kw}
 <link rel="canonical" href="{SITE_URL}/{path}">
 <meta property="og:type" content="website">
